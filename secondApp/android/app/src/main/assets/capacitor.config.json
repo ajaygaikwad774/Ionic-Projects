@@ -1,0 +1,8 @@
+{
+  "appId": "Recipe-App",
+  "appName": "secondApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
